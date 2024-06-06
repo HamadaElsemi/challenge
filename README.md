@@ -3,7 +3,8 @@ System specification:
 > which connects to an Analog-to-Digital Converter (ADC)
 > Though this pin you have to control various operations in the system.
  Operations AND Modes:
-/***************************************************************************************/
+
+
 Mode 0:
    > System has no interrupt (Maskable interrupt).
   > LCD display Mode0 in first line, No Maskable in second line.
